@@ -5,7 +5,7 @@
 ConfigVersion: 1.22.0
 
 # Bot token; don't know what this is? Look at the video on the plugin page for instructions
-BotToken: "ODUwODM0NzI3NTAxMjk5NzMy.YLvflg.Jkuz2jIKrQm0AiN80SPs30Rjfbg
+BotToken: "ODUwODM0NzI3NTAxMjk5NzMy.YLvflg.9as9IovmsCcI3KWQihnwSBvEv78
 "
 
 # Channel links from game to Discord
@@ -25,10 +25,10 @@ BotToken: "ODUwODM0NzI3NTAxMjk5NzMy.YLvflg.Jkuz2jIKrQm0AiN80SPs30Rjfbg
 # for /discord broadcast: broadcasts (unless specified in the command)
 #
 # The first part of channel pairs is not the Discord channel name!
-Channels: {"global": "852020823287136256"}
+Channels: {"global": "854153379987456061"}
 
 # Console channel numerical ID (NOT NAME), leave blank to disable the console channel all together
-DiscordConsoleChannelId: "852020959069863956"
+DiscordConsoleChannelId: "854153448324333568"
 
 # Invitation link shown to players when using /discord and on the message shown to unlinked players when linking is enforced
 DiscordInviteLink: "discord.gg/gellycord"
